@@ -13,3 +13,4 @@ def recur_factorial(n):
 if __name__ == '__main__':
     arg = sys.argv
     print(recur_factorial(int(arg[1])))
+    print('cool')
